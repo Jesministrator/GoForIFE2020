@@ -3,7 +3,6 @@
     width: 800px;
     height: 1000px;
     margin: 15px auto;
-    
 }
 .header{
     position: relative;
@@ -22,4 +21,10 @@
     position: relative;
     float:left;
     left: 20px;
+}
+.header_icon{
+    position: relative;
+    float: right;
+    margin-top: 20px;
+    margin-right: 150px;
 }

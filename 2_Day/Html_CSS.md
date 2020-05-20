@@ -16,4 +16,6 @@ h1 {color:red;font-size:14px}
 
 id选择器和类选择器都可以为指定的标签元素指定样式，但是id选择器在同一份html中只能使用一次，因此指定样式时可以优先使用类选择器
 
-<img alt="CSS边框模型a" src="https://www.w3school.com.cn/i/ct_boxmodel.gif" />
+<img alt="CSS边框模型a" src="https://www.w3school.com.cn/i/ct_boxmodel.gif" height="400"/>
+
+每个元素都有自己的边框，外边框margin就是border之外的距离，margin的4个值分别为上，右，下，左；其中上下和左右分别是两组复制值。
