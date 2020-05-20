@@ -1,0 +1,25 @@
+.page{
+    background-color: white;
+    width: 800px;
+    height: 1000px;
+    margin: 15px auto;
+    
+}
+.header{
+    position: relative;
+    left: 50px;
+}
+.header_left{
+    position: relative;
+    float:left;
+}
+.split{
+    position: relative;
+    float:left;
+    left: 10px;
+}
+.header_right{
+    position: relative;
+    float:left;
+    left: 20px;
+}
