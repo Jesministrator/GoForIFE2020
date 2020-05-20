@@ -16,4 +16,4 @@ h1 {color:red;font-size:14px}
 
 id选择器和类选择器都可以为指定的标签元素指定样式，但是id选择器在同一份html中只能使用一次，因此指定样式时可以优先使用类选择器
 
-<img alt="CSS边框模型" src="https://www.w3school.com.cn/i/ct_boxmodel.gif" />
+<img alt="CSS边框模型a" src="https://www.w3school.com.cn/i/ct_boxmodel.gif" />
