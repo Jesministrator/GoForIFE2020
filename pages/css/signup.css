@@ -45,7 +45,7 @@ dd{
 .tooltips_box{border-width:1px;line-height:2;}
 .tooltips{margin:0 -2px;}
 .msg{margin:1px -2px;padding:0 6px;color:#2F2C2C;text-shadow:0 1px 0 #FFFFFF;font-size:12px;}
-.ov{background:url('img/tri.gif') no-repeat scroll 0 0 transparent;position:absolute;left:30%;overflow:hidden;width:15px;height:15px;margin:16px 0 0 0;display:inline;}
+.ov{background:url('img/tri.gif') no-repeat scroll 0 0 transparent;position:absolute;left:30%;overflow:hidden;margin:16px 0 0 0;display:inline;}
 
 
 
