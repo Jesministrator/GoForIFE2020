@@ -40,13 +40,16 @@ dd{
 }
 
 .tooltips_main{position:absolute;left:0;margin:-5px 0 0 2px;}
+
 .tooltips_box,.tooltips,.msg{display:inline-block;*display:inline;*zoom:1;position:relative;border-style:solid;border-color:#FF1F1F;}
 .tooltips,.msg{border-width:0 1px;*left:-2px;background-color:#FFCFCF; }
 .tooltips_box{border-width:1px;line-height:2;}
-.tooltips{margin:0 -2px;}
-.msg{margin:1px -2px;padding:0 6px;color:#2F2C2C;text-shadow:0 1px 0 #FFFFFF;font-size:12px;}
+.tooltips_right,.tooltips{margin:0 -2px;}
+.msg_right,.msg{margin:1px -2px;padding:0 6px;color:#2F2C2C;text-shadow:0 1px 0 #FFFFFF;font-size:12px;}
 .ov{background:url('img/tri.gif') no-repeat scroll 0 0 transparent;position:absolute;left:30%;overflow:hidden;margin:16px 0 0 0;display:inline;}
 
-
+.tooltips_box_right,.tooltips_right,.msg_right{display:inline-block;*display:inline;*zoom:1;position:relative;border-style:solid;border-color:#34d058;}
+.tooltips_box_right{border-width:1px;line-height:2;}
+.tooltips_right,.msg_right{border-width:0 1px;*left:-2px;background-color:#dcffe4; border-color:#34d058;}
 
 
